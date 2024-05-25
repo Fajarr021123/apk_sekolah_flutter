@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "sistem_sekolah",
+            "cwd": "sistem_sekolah",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sistem_sekolah (profile mode)",
+            "cwd": "sistem_sekolah",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sistem_sekolah (release mode)",
+            "cwd": "sistem_sekolah",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
